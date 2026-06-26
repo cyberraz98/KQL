@@ -8,7 +8,8 @@ KQL thinking template - these are questions we can ask ourseleves when looking i
 2. What tables should be using?
 3. Do you understand tables to know what fields we should use?
 4. What is normal behaviour? Is this approved activity. Do we have hard evidence of this?
-5. Is this triggering in the most efficient way, is it generating too many false positives.
+5. How can you sure this is a false positive or true positive.
+6. Is this triggering in the most efficient way, is it generating too many false positives.
 
 Some of these questions you can only answer if you in the job or if you have any sample data (Q4 an 5). You can use platforms like kc7cyber which is great for creating different scenarios to apply kql thinking.
 
